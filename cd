@@ -1,1 +1,5 @@
 cd security-strategy-essentials
+git checkout add-wolverine-image
+git rebase -i main
+Add wolverine image to game
+git push -f
